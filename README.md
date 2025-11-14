@@ -65,7 +65,7 @@ A convergência das frequências simuladas é comparada com o valor teórico \( 
 
 ## ⚙️ Parte 2 — Aplicações Avançadas e Visualização de Fenômenos Probabilísticos
 
-A segunda parte da disciplina explora aplicações **geométricas e experimentais** dos conceitos de variáveis aleatórias e do **Teorema Central do Limite**, com uso intensivo de simulação, integração numérica e visualização interativa.
+A segunda parte da disciplina explora aplicações **geométricas e experimentais** dos conceitos de variáveis aleatórias e do **Teorema do Limite Central**, com uso intensivo de simulação, integração numérica e visualização interativa.
 
 ### 🔹 `braco_biarticulado_densidade.ipynb`
 Estudo probabilístico do **braço robótico biarticulado**, relacionando os ângulos articulares \((\theta_1, \theta_2)\) com as coordenadas cartesianas \((x, y)\) via **cinemática direta**.  
@@ -75,7 +75,7 @@ O notebook mostra que ângulos uniformes não geram densidade uniforme em \((x, 
 ---
 
 ### 🔹 `teorema_limite_central.ipynb`
-Experimento computacional para demonstrar o **Teorema Central do Limite (TCL)**.  
+Experimento computacional para demonstrar o **Teorema do Limite Central (TCL)**.  
 O notebook gera e soma amostras independentes de diferentes distribuições (Uniforme, Exponencial, Laplace etc.), mostrando que a distribuição das somas tende a uma Normal conforme aumenta o número de variáveis somadas.  
 Inclui seções dedicadas a:
 - Alinhamento de variâncias das distribuições originais.  
